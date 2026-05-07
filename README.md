@@ -136,6 +136,7 @@ Também contribuo como voluntária de design na comunidade Manas Tech, participa
 <br/>
 <br/>
 
+
 ## 🎯 Objetivos e Propósitos
 
 Estudante de Ciência da Computação apaixonada por criar experiências digitais que conectam pessoas e tecnologia. Meu propósito vai além do código, acredito que a tecnologia é uma ferramenta poderosa de transformação social.
